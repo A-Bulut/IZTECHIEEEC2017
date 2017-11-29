@@ -2,7 +2,7 @@
 
 int main(){
 	
-	int a,i,fact;
+	int a,i,fact=1;
 	scanf("%d",&a);
 	for(i=1;i<=a;i++){
 		
